@@ -1,11 +1,12 @@
+<img align="left" alt="Avatar" width="100" src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortFlat&accessoriesType=Blank&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=Hoodie&clotheColor=Blue03&eyeType=Wink&eyebrowType=UpDownNatural&mouthType=Twinkle&skinColor=Brown'
+/>
 <h1 align="center">Hi 👋, I'm Gerardo Romero</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761173dd6abb74311220e4eead164ff49ca8c81e7213&rid=giphy.gif&ct=g"
 
-🌱 I’m currently learning **.Net Core and Angular**
 
- 
-📫 How to reach me **gerardolauroromero@gmail.com**
+- 🌱 I’m currently learning **.Net Core and Angular** 
+- 📫 How to reach me:  **gerardolauroromero@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
